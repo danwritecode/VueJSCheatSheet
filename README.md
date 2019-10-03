@@ -19,5 +19,8 @@ A repo used for reference of various VueJS syntax.
 
 **In Code Routing**
 
-`this.$router.push('routeName')`
+`this.$router.push('/routeName')`
 
+**In Template Routing**
+
+`to="routeName"`
