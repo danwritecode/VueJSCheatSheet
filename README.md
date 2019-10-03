@@ -24,3 +24,9 @@ A repo used for reference of various VueJS syntax.
 **In Template Routing**
 
 `to="routeName"`
+
+## Random
+
+**Timed Actions**
+
+`setTimeout(() => (doSomethingHere), timeInMS)`
