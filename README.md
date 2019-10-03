@@ -1,7 +1,7 @@
 # VueJSCheatSheet
 A repo used for reference of various VueJS syntax.
 
-# VueX
+## VueX
 
 ### StateMutations
 
@@ -14,3 +14,10 @@ A repo used for reference of various VueJS syntax.
 **Mutating State from Component or View:**
 
 `this.$store.commit('mutationFunctionName', optionalParam)`
+
+## Vue Router
+
+**In Code Routing**
+
+`this.$router.push('routeName')`
+
